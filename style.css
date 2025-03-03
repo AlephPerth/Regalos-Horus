@@ -145,6 +145,7 @@ div.divisor {
 .carousel img {
     width: 100%;
     display: block;
+    border-radius: 24px;
 }
 
 
